@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **materials** engineer who has an **entrepreneurial mindset**. I hole a __PhD__ in _Science Engineering_ and an _Executive_ __MBA__.
